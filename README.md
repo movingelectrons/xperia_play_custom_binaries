@@ -7,16 +7,16 @@ USE AT YOUR OWN RISK, I OF COURSE TAKE NO RESPONSIBLITY IF YOU SCREW UP YOUR PHO
 
 # Downloads
 ## the kernel
-(LuPuS-PLAY-jbv8-720.img)[https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/LuPuS-PLAY-jbv8-720.img]
+[LuPuS-PLAY-jbv8-720.img](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/LuPuS-PLAY-jbv8-720.img)
 
 ## the rom
-(Xperia_Z_Jellybean_GSM_v3.zip)[https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/Xperia_Z_Jellybean_GSM_v3.zip]
+[Xperia_Z_Jellybean_GSM_v3.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/Xperia_Z_Jellybean_GSM_v3.zip)
 
 ## gapps
-(gapps-jb-xtramini.zip)[https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/gapps-jb-xtramini.zip]
+[gapps-jb-xtramini.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/gapps-jb-xtramini.zip)
 
 ## wifi fix
-(wedgess_Zram-Enabler_05-02-13.zip)[https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/wedgess_Zram-Enabler_05-02-13.zip]
+[wedgess_Zram-Enabler_05-02-13.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/wedgess_Zram-Enabler_05-02-13.zip)
 
 # How to upgrade Xperia Play (aka Zeus) to JellyBean (with overclocking options, and many other things avilable!)
 
@@ -47,6 +47,10 @@ then run:
 
 ### flash the rom
 next time your phone boots up, it should have a cool fox head logo and say LUPIS.  Mash on the volume down key and/or back key to enter the bootloader and/or recovery.  you want to enter recovery and install the following 3 zip files.  the wififix might fail, select the option to fix the wifi from the bootloader if this is the case (your wifi might just work anyways).
+
+[Xperia_Z_Jellybean_GSM_v3.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/Xperia_Z_Jellybean_    GSM_v3.zip)
+[gapps-jb-xtramini.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/gapps-jb-xtramini.zip)
+[wedgess_Zram-Enabler_05-02-13.zip](https://github.com/movingelectrons/xperia_play_custom_binaries/raw/master/wedgess_Zram-En    abler_05-02-13.zip)
 
 Thats is!  Finally done.  Whew... reboot and enjoy.
 
